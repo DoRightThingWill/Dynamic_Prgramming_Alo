@@ -17,3 +17,9 @@
  ## Typical DP Implementation
  * Bottom up
  * Top down with a memorized table
+ ## Classical DP Problems and Answers
+ * 0/1 Knapsack
+ * Coin Change
+ * Max Subset Sum
+ * Number of Ways to Traverse a Matrix
+ * Levenshtein Distance
